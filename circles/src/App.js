@@ -1,5 +1,4 @@
-import Circle from "./Circle";
-import ColoredCircles from "./ColoredCircles";
+import ColoredCircles from "./ColoredCircles2/ColoredCircles";
 
 function App() {
   return (
